@@ -1,4 +1,4 @@
-module gitee.com/thingple/go-sdk
+module github.com/Jjiang88/go-sdk
 
 go 1.23.1
 
